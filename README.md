@@ -10,7 +10,7 @@ This project solves the "Speed vs. Safety" paradox in financial simulations by e
 
 ## 📖 The Story Behind the Code
 I wrote a technical case study detailing the architectural decisions (Smart Pointers vs Raw Pointers) in this project:  
-👉 **[Read the Engineering Case Study](docs/Technical_Case_Study.md)** *(Coming soon to Medium)*
+👉 **[Read the Engineering Case Study](docs/Technical_Case_Study.md)** 
 
 ## ⚡ Key Technical Features
 
