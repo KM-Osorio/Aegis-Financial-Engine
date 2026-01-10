@@ -11,7 +11,7 @@ This engine processes large datasets of OHLCV (Open, High, Low, Close, Volume) c
 ---
 ## 📖 The Story Behind the Code
 I wrote an article detailing the engineering challenges and optimizations in this project:  
-👉 **[Read on Medium: 4 Ways I Sabotaged My High-Performance C++ Engine](https://medium.com/@katia-osorio/881e98626225)**
+👉 **[PROJECT AEGIS: Architecting a High-Frequency Backtesting System in Modern C++](https://medium.com/@katia-osorio/project-aegis-architecting-a-high-frequency-backtesting-system-in-modern-c-ea4b619fd69a)**
 
 ---
 
