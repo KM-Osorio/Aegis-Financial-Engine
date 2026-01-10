@@ -73,7 +73,7 @@ Requirements: C++ Compiler (GCC/Clang/MSVC) and CMake.
 
 The engine generates a detailed report in `outputFiles/monthlyReport.txt`.
 
-  ===================================================================================================================
+---===================================================================================================================
                                                 Performance Monthly Report
     ===================================================================================================================
      USER                                CATEGORY     INITIAL BALANCE    FINAL BALANCE      OPS      ROI       REVENUE
