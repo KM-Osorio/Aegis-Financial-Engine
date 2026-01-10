@@ -73,7 +73,8 @@ Requirements: C++ Compiler (GCC/Clang/MSVC) and CMake.
 
 The engine generates a detailed report in `outputFiles/monthlyReport.txt`.
 
----===================================================================================================================
+```text
+===================================================================================================================
                                                 Performance Monthly Report
     ===================================================================================================================
      USER                                CATEGORY     INITIAL BALANCE    FINAL BALANCE      OPS      ROI       REVENUE
@@ -91,7 +92,7 @@ The engine generates a detailed report in `outputFiles/monthlyReport.txt`.
            • Top Performer: The user Escalante Vergel Nestor Manuel achieved the highest margin with 9.47%
     ===================================================================================================================
 
----
+```
 
 ## 🧠 Design Decisions
 
